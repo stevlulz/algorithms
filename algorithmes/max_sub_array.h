@@ -1,5 +1,5 @@
 //
-// Created by stevlulz on 4/20/18.
+// Created by seyyidahmed on 4/20/18.
 //
 
 #ifndef MAXIMUM_MAX_SUB_ARRAY_H
